@@ -60,7 +60,7 @@ ma.Front() // 6
 
 ### Getting a raw queue
 
-***ATTENTION**: `Queue()` method returns a raw queue pointer due to the performance.
+**ATTENTION**: `Queue()` method returns a raw queue pointer due to the performance.
 
 ```go
 q := ma.Queue() // [6, 3, 3]
